@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Budurasmala Dot Com
-    text: It's Nice To Meet You
+    description: Budurasmala description
     button: Tell Me More
     buttonlink: "#services"
 
